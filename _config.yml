@@ -1,0 +1,17 @@
+url: ''
+baseurl: ''
+title: 'Jekyllwind'
+
+plugins:
+  - jekyll-postcss-v2
+
+exclude:
+  - package.json
+  - postcss.config.js
+  - tailwind.config.js
+  - yarn.lock
+
+postcss:  
+  script: node_modules/.bin/postcss
+  config: postcss.config.js
+  cache: false

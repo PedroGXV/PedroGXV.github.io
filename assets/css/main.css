@@ -1,0 +1,19 @@
+---
+---
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
+}
+
+a {
+    color: #1a202c;
+    text-decoration: underline;
+}
+
+a:hover {
+    opacity: 0.5;
+}

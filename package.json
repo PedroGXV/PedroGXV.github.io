@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "cssnano": "^5.1.8",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "postcss-cli": "^11.0.0"
+  }
+}
