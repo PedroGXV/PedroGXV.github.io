@@ -1,0 +1,14 @@
+<div class="bg-white rounded-xl shadow-md overflow-hidden my-2 h-fit max-w-md md:min-w-96">
+    <div class="md:flex">
+      <div class="p-4 w-full">
+        {% if include.title != "" %}
+        <h2 class="uppercase tracking-wide text-sm text-indigo-500 font-semibold mb-4">
+            {{ include.title }}
+        </h2>
+        {% endif %}
+        <p class="mt-2 text-gray-500">
+          {{ include.content }}
+        </p>
+      </div>
+    </div>
+  </div>

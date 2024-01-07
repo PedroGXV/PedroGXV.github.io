@@ -1,6 +1,6 @@
 url: 'https://pedrogxv.github.io'
 baseurl: ''
-title: 'Jekyllwind'
+title: 'Portfolio'
 
 plugins:
   - jekyll-postcss-v2
