@@ -49,6 +49,7 @@ title: "👨‍💻 Pedro"
                 <div class="flex justify-evenly">
                     <img src="/assets/svg/others/docker.svg" class="h-10 w-12">
                     <img src="/assets/svg/others/aws.svg" class="h-10 w-12">
+                    <img src="/assets/svg/others/serverless.svg" class="h-10 w-12">
                     <img src="/assets/svg/others/linux.svg" class="h-10 w-12">
                 </div>
             {% endcapture %}
